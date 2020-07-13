@@ -8,6 +8,7 @@ instructions for praw.ini:
  <h3>Fill out the form with whatever you want, and then you should see the below.</h3>
 <img src='https://raw.githubusercontent.com/elnepik/Reddit-Bot/master/Screen%20Shot%202020-07-13%20at%208.44.49%20AM.png'>
 <h3>Now put the string of characters at the top of your app next to the client id part of the file. Put the string of characters next to your client secret into the client secret part, put your reddit password into password, and your reddit username into username.</h3>
+<img src'https://raw.githubusercontent.com/elnepik/Reddit-Bot/master/Screen%20Shot%202020-07-13%20at%209.27.35%20AM.png'>
 
 
 
