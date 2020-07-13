@@ -7,6 +7,7 @@ A simple reddit reply bot, this is the full code of pythonforengineers.com/build
 <h4>Change the subreddit variable to decide what the subreddit the bot is active on</h4>
 <img src='https://raw.githubusercontent.com/elnepik/Reddit-Bot/master/Screen%20Shot%202020-07-13%20at%208.56.06%20AM.png'>
 <h4>Change submission.reply to change what the bot says as a response</h4>
+<img src='https://raw.githubusercontent.com/elnepik/Reddit-Bot/master/Screen%20Shot%202020-07-13%20at%208.56.16%20AM.png'>
 <h3>Instructions for praw.ini:</h3>
 <h4>First go to reddit.com/prefs/apps</h4>
 <img src='https://raw.githubusercontent.com/elnepik/Reddit-Bot/master/Screen%20Shot%202020-07-13%20at%208.40.44%20AM.png'>
