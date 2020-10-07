@@ -17,7 +17,7 @@ for submission in subreddit.hot():
     if submission.id not in posts_replied_to:
             if re.search("hmmm", submission.title, re.IGNORECASE):
                 posts_replied_to.append(submission.id)
-                submission.reply("This is so hmmy hmmm.")
+                submission.reply("This is so hmmy hrmmm.")
                 with open("posts_replied_to.txt", "w") as f:
                     for post_id in posts_replied_to:
                         f.append(post_id + "\n")
